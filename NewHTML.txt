@@ -1,0 +1,11 @@
+<p><!DOCTYPE html> <html> <head> <title>Page Title</title> </head> <body></p>
+
+<p><h2><b>Introduction</b></h2> <p>Hey there! The name's Magne. I'm 6teen years and the prns are he/him.</p></p>
+
+<p><h2><b>Hobbies</b></h2> <P>My hobbies are drawing, song, writing, gaming, editing, piano and anime.</p></p>
+
+<p><h2>Likes and Dislikes</h2> <p>I like cats, hamsters, flowers and anime (Fav anime : Bleach) <br> I dont like people who ghost while chatting, toxic people and racist people.</p></p>
+
+<p><h2><b>Socials</b></h2> <p><a href=&quot;https://discord.com/users/1244917548898717779&quot;>Discord</a></p> <p><a href=&quot;https://www.reddit.com/user/Big-Counter4649/&quot;>Reddit</a></p> <p><a href=&quot;https://www.instagram.com/_.m4gn3/?hl=en&quot;>Instagram</a></p></p>
+
+<p> </body> </html></p>
